@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Say</string>
+    <string name="vertical_fragment_title_dialog_delete">Delete item</string>
+    <string name="vertical_fragment_question_delete">Are you sure you want to delete this location?</string>
+</resources>
